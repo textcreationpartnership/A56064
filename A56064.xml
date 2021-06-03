@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vnitie, trvth and reason presented in all humility petition-wise to the honourable, the knights, citizens and burgesses, for the Commons House of Parliament / by some moderate, and peace-desiring ministers, for the more happy and certaine reconciling of the church-differences.</title>
+            <author>H. P.</author>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56064</idno><idno type="EEBO-CITATION">13084435</idno>
+  <idno type="VID">97287</idno>
+  <idno type="EEBO-PROQUEST">2240861100</idno>
+  
+            <idno type="STC">Wing P38</idno>
+            <idno type="STC">ESTC R5425</idno>
+            <idno type="OCLC">13084435</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97287)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vnitie, trvth and reason presented in all humility petition-wise to the honourable, the knights, citizens and burgesses, for the Commons House of Parliament / by some moderate, and peace-desiring ministers, for the more happy and certaine reconciling of the church-differences.</title>
+                  <author>H. P.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to H.P.</note>
+                  <note>Pages [7]-[9] misnumbered as 4-6.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97287:1"/>
+            <pb facs="tcp:97287:1"/>
+            <p>VNITIE, TRVTH and REASON. Presented in all Hu<g ref="char:EOLhyphen"/>mility Petition-wise to the Ho<g ref="char:EOLhyphen"/>nourable, the Knights, Citizens and Burgesses, for the Commons-House of PARLIAMENT.</p>
+            <p>By some moderate, and Peace-desiring Ministers, for the more happy and certaine reconciling of the Church-differences.</p>
+            <p>Printed Anno Dom. 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:97287:2"/>
+            <head>TO THE READER.</head>
+            <p>IT was not at first intended, that this following Discourse presented Petition-wise should flye so publickely but such modesty and truth withall are both so evenly expressed, that the eyes of envie, malice, and uncharitablenesse (which usually are most quicke upon actions of this na<g ref="char:EOLhyphen"/>ture) cannot take iust advantage, as farre as wee can apprehend. Wee therefore on the behalfe of our selves and others, doe humbly crave, that what is here pre<g ref="char:EOLhyphen"/>sented with a dexterous intention, may not have a si<g ref="char:EOLhyphen"/>nister acception.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:97287:2"/>
+            <opener>
+               <salute>TO THE HONOVRABLE THE Knights, Citizens, and Bur<g ref="char:EOLhyphen"/>gesses, for the Commons House of Parliament.</salute>
+            </opener>
+            <p>Humbly representeth</p>
+            <p>
+               <seg rend="decorInit">T</seg>HAT Episcopasie is a frame auciently rai<g ref="char:EOLhyphen"/>sed out of the Pastorall place, built up with Chancellours, Deanes, Arch-Deakons, Commissaries, Surrogates, Officials, Ap<g ref="char:EOLhyphen"/>paritors, &amp;c. And further finished with their Consistories, High-Commission, Oath <hi>Ex Officio,</hi> Bookes of Canons, old and new, Bookes of Recreation and Libertie, Ceremonies, and ma<g ref="char:EOLhyphen"/>nifold Innovations enlarged, especialy in latter times by vi<g ref="char:EOLhyphen"/>olent intemperate Spirits, which have pursued many of the best lived of the Ministry and people, with too much heat, insomuch, that many choyce men have been wormed out; the most scandalous cherished, Doctrine adulterated, the fire of zeale quenched: Tyranny exercised, especially over the consciences of their poore Brethren; Primitive Discipline defaced, the iudgement of many ingaged for Episcapacy <hi>Iure divino;</hi> Civill Wars incouraged, (the most dangerous and hazardous undertaking of a State.) In the mean time, the Prelates not sufficiently sensible of the di<g ref="char:EOLhyphen"/>shonour of our gracious Soveraigne, and securitie of these happy and illustrious Kingdomes. Nay, besides all this, many of the late Church-Governours have also complyed
+<pb n="2" facs="tcp:97287:3"/>too much with the Popish Faction, and drawne (<hi>quantum in illis</hi>) the <hi>odium</hi> of the late disturbances upon his Maiestie (let them pretend what they please) and dishonour upon the Protestant Religion, in the eyes of the Romish party, and the whole world by their tongues, pens and indevors.</p>
+            <p>May it please therefore this Honourable House to take Episcopall Government into your grave and serious Con<g ref="char:EOLhyphen"/>sideration. And if it may stand with the ways and customs of this Honourable house, that our Petition may be presen<g ref="char:EOLhyphen"/>ted to the House of the Lords, &amp; to his excellent Maiestie.</p>
+            <p n="1">1 First, that a speedy survey may bee taken of this old ruinous and decayed building by a Commission <hi>ad inqui<g ref="char:EOLhyphen"/>rendum,</hi> concerning the truth of the numerous complaints from all parts of this Kingdome. When <hi>God</hi> visited <hi>Sodom</hi> in Iudgement, hee first sent his Angels to inquire of the truth of the crimes thereof.</p>
+            <p n="2">2 If upon iust and exact triall the whole building from the foundation to the highest part of the superstructure, prove sound, <hi>God</hi> forbid, any moderate spirit should desire the alteration of a Government so long established: but if (<hi>in toto composito</hi>) there bee an universall dissolution and weaknesse of all parts, that then the old decayed frame may be taken downe; and such a new modell propounded, as may most nearly agree with the Word, the Apostles, and Primitive times: with the assistance of a select Company of grave, pious, learned and Orthodox Divines, in nature of a nationall Synod, which may be chosen by your singu<g ref="char:EOLhyphen"/>lar care and wisdome, gathered out of all parts of the King<g ref="char:EOLhyphen"/>dome, and authorised for that purpose. And in case it may stand with the pleasure of his Maiestie, and this High and Honourable Court of Parliament, that some Scots and Irish Divines may bee also admitted to such Assembly, which may happily tend, not only to mutuall information of themselves, but to a more firme obligation of all mem<g ref="char:EOLhyphen"/>bers in these Churches in Civill or Ecclesiasticall affaires
+<pb n="3" facs="tcp:97287:3"/>under our gracious Soveraigne as Supreme Governour unto a more firme vnion and obedience.</p>
+            <p>Notwithstanding all this, it is not the desire of your Pe<g ref="char:EOLhyphen"/>titioners, with the Sons of <hi>Zebedee,</hi> that fire should come downe from heaven and distroy this frame of Government; neither any illegall or precipitant violence, should demo<g ref="char:EOLhyphen"/>lish it; such reverence doe we owe to the memory of those industrious, pious-learned Bishops, which have sometimes sealed the testimony of the Gospell with their blood. And to our happy Princes (whose Names are ever blessed with us) who have yeelded all Princely indulgence unto Epis<g ref="char:EOLhyphen"/>capall dignities. Only thus far do your Petitioners hum<g ref="char:EOLhyphen"/>bly sue, forasmuch as there is such a considerable number of grievances and complainnats, through the whole King<g ref="char:EOLhyphen"/>dome, (as may appeare by the numerours Petitions and Remonstrances to this Honourable House,) That in the meane time whilst a Commission issues out for a more full discovery of Corruptions in Ecclesiasticall Government &amp; Ministers, notoriously scandalus, the above named Eccle<g ref="char:EOLhyphen"/>siasticall Assembly bee called, and Episcopall Governours allow'd a faire &amp; legall triall by Ministers, men of their owne Order (as Lords are tried by their Peeres) but impartiall, &amp; not ingaged by the dignities &amp; preferments of the tims.</p>
+            <p>And if it may not savour of sancinesse, or too high pre<g ref="char:EOLhyphen"/>sumption, May it please this Honourable House, to re<g ref="char:EOLhyphen"/>quire the Episcopall party, to assigne some of their owne choice to answer in such a well constituted Assembly, and ro give liberty to the Presbiteriall Disciplinaries, as in <hi>Scotland,</hi> or them of the Pastorall and more Independent way, as in new <hi>England,</hi> to come in and oppose, only give leave, we beseech you, that the Word may be the modera<g ref="char:EOLhyphen"/>tor in this Nationall Synod. And if we may not be thought to presume upon this intelligent and religious House, wee humbly sue, First, that in such a well dispos'd Assembly, the Doctrine of the Church may be cleared and explained.</p>
+            <p>Secondly, the Discipline questioned. First by what te<g ref="char:EOLhyphen"/>nure
+<pb n="4" facs="tcp:97287:4"/>Episcopacy holds, whether <hi>Iure Diuino, vel Eccl siastice?</hi> If <hi>Divino,</hi> it must necessarily stand for ever. Secondly, if <hi>Ec<g ref="char:EOLhyphen"/>clesiastico</hi> whether it be not alterable according to corrupti<g ref="char:EOLhyphen"/>ons attending it, or the variing constitutions of particular Churches, or the like considerable Circumstances?</p>
+            <p n="3">3. If alterable, whether this Government may safely be altered in this Church of <hi>England?</hi>
+            </p>
+            <p n="4">4. If it may be altered, what Government can bee pro<g ref="char:EOLhyphen"/>pounded more neerely agreeing to the Word, and more fit for these times?</p>
+            <p n="5">5. Whether <hi>Christ</hi> left any certaine and necessary Disci<g ref="char:EOLhyphen"/>pline to be observed in his Church forever?</p>
+            <p n="6">6. Whether Examples, which have not grounds on ex<g ref="char:EOLhyphen"/>presse Rules, or necessary Consequences out of those com<g ref="char:EOLhyphen"/>mands doe bind the Conscience to subjection, as to an ordi<g ref="char:EOLhyphen"/>nance of <hi>Christs.</hi>
+            </p>
+            <p>Whether it be not fit for Christians rather to follow the Examples of <hi>Christ,</hi> his Apostles, or the purer times for Pre<g ref="char:EOLhyphen"/>sidents, then the more degenerate and corrupt times of the world?</p>
+            <p>When these or the like Questions are well discussed and decided, The confirmation of such Acts of Assembly as shal be then determined, we submit to the wisdome of this Ho<g ref="char:EOLhyphen"/>nourable House.</p>
+            <p>In the meane time most noble Patriots, suffer not the glory of our Church to set under a Cloude. We have be<g ref="char:EOLhyphen"/>trusted you with our selves, and all ours, faile us not in the maine, (<hi>viz.</hi>) in the matters of Religion, neither Doctrine nor discipline.</p>
+            <p>Begin we beseech you where your forefathers left, in the dayes of King <hi>Edward</hi> the 6. Let the noble blood of your Ancestors which runs in your veyns induce you to perfect the glorious beginnings of your renowned Predecessors. Never thinke the Common-wealth can be well healed, un<g ref="char:EOLhyphen"/>lesse the Church be also cured. Did not our sufferings in
+<pb n="5" facs="tcp:97287:4"/>the Church lead the way to yours in the Civill State? If you conceive your worke is fully ended, when the Com<g ref="char:EOLhyphen"/>mon-wealths grievances are removed: <hi>God</hi> himselfe will not take it well at your hands to leave <hi>Sion</hi> weeping, and none comforting her. You have come on nobly and like Religi<g ref="char:EOLhyphen"/>ous Patriots, in giving faire hopes of easing the distressed part of the Church: Go on like yourselves, and the <hi>God</hi> of Heaven prosper you. Let not golden Balls turne you out of the way: Neither <hi>Syrenian</hi> musicke, nor <hi>Crocodile</hi> teares of the degenerate part of the Tribe of <hi>Levi</hi> captivat your judg<g ref="char:EOLhyphen"/>ments. You have the whole Nation ingaged to be Servants unto the King for ever in a stricter bond, if you his great Counsell of State, according to his trust in you, see Religion freed from the complaints and grievances of it. It is true, Episcopall governours, with their neerest friends, thinke it seorne to come to tryall of their title. We are not ignorant of their choysest Arguments: but if you please with pati<g ref="char:EOLhyphen"/>ence to survey them, you shall find they have studied falla<g ref="char:EOLhyphen"/>cies more then demonstrations. It is true, they pretend 1. the Word: 2. Antiquity: 3. Reference to our Laws. 4. Order. 5. Suppression of Errors, Schismes and Heresies. 6. Incou<g ref="char:EOLhyphen"/>ragement to Learning. 7. Conformity of Episcopall Go<g ref="char:EOLhyphen"/>vernment unto Monarchy. All specious pretences, we con<g ref="char:EOLhyphen"/>fesse, like the Grapes and fruites of <hi>Sodom:</hi> but if you touch them they fall to Ashes.</p>
+            <p>First, the Word, no better plea in the world, nor stron<g ref="char:EOLhyphen"/>ger Argument, if the pontificiall side would shew but one expresse Command or necessary inference for Episcopacy over the Clergy (it is our meaning) to bee a constant and standing office in the Church: we should thinke our selves deserved to lose our Eares, liberty, life and all, for speaking against a Law of <hi>Gods</hi> owne making. But whilst the great Clerks of the Kingdome in this <hi>multa dicunt, nihil probant.</hi> We must desire this Government (but in an Ecclesiasticall assembly) may goe to the question.</p>
+            <pb n="6" facs="tcp:97287:5"/>
+            <p> Secondly, <hi>Antiquity,</hi> a plea which would well have served in the dayes of <hi>Hezekiah</hi> and <hi>Iosiah</hi> for keeping up the High Places, because they had continued from the dayes of <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> or afore. If this Argument were sufficient, the Refor<g ref="char:EOLhyphen"/>mers in the dayes of <hi>Edward</hi> the 6. and Queene <hi>Elizabeth</hi> of famous memory should have stayd their hands from taking away such ancient Ceremonies as had continued many hun<g ref="char:EOLhyphen"/>dred of yeares.</p>
+            <p>Upon this ground an old ruinous house which is rotten from the foundation, to the highest part of the superstru<g ref="char:EOLhyphen"/>cture should not be pulled downe; upon this ground old Vines, where the <hi>humidum radicale</hi> is quite gone, and fruite ceases, should not be plucked up, nor others planted in their roome.</p>
+            <p>The brazen Serpent was at first erected upon better war<g ref="char:EOLhyphen"/>rant then ever Episcopacie, yet when it grew worm-eaten with corruption of Antiquity, <hi>Hezekiah</hi> made bold to take it downe, and the fact is fronted with the name of Zeale unto Jmmortality.</p>
+            <p>Thirdly, <hi>Reference to our Laws,</hi> It is true, Episcopacy is too truely and too much interwoven with the Statutes of this Kingdome; not that Episcopacy strengthens the Laws, but the Lawes Episcopacie. So that it seemes no necessary Ar<g ref="char:EOLhyphen"/>gument for this dignity standing <hi>Statu qno nunc,</hi> but rather serves for a good caution, that in taking downe of this old frame, the Statutes of the Land suffer no violence, which we doubt not but by the wisedome of this Honourable House, may be well contrived.</p>
+            <p>Fourthly, <hi>Order,</hi> a great deale of reason for it, if <hi>Order</hi> do not violate that eternall and indispensible. Rule of <hi>Charity,</hi> unto which the Episcopall Government hath done much violence, by their pride and Tyranny over the Consciences of their Brethren. In such case we desire the Word, Chri<g ref="char:EOLhyphen"/>stian Liberty and Charity may be preferred afore any pre<g ref="char:EOLhyphen"/>tended Order in the World.</p>
+            <pb n="4" facs="tcp:97287:5"/>
+            <p> Fifthly, Suppressing of Schismes, Errors, and Heresies; we deny not but when Episcopacie was first raised and in<g ref="char:EOLhyphen"/>stituted in the Church, there was such a politick intention, but where is the Successe? have not Corruptions, Schismes, Errours, if not Heresies, more growne under the shadow of Episcopacie, than under any other reformed Protestant Church in the world?</p>
+            <p>Let the Remonstrance of the Ministers speake unto this, together with the numerous Complaints from all parts of the Kingdome. It is not to be denied, but as these weeds, so much precious Corne hath growne within the bounds of Episcopall Government, not that we must thank the smiles and indulgence of the Pontisiciall party, but their frownes, brow-beatings, and manifold oppressions, or ra<g ref="char:EOLhyphen"/>ther <hi>God</hi> himselfe, who multiplyed the Israelites under <hi>Pharaohs</hi> Tyranny and Cruelty.</p>
+            <p>Sixthly, <hi>Encouragement of Learning,</hi> Give loosers leave to speake, let the inferiour Clergy of the Kingdome (as they are usually called) come in, and speak what they usu<g ref="char:EOLhyphen"/>ally feele in their owne experience; Doth not the burthen and heat of the day, lye upon poore Parsons, Vicars, Lecturers, and Curates? What encouragement to Lear<g ref="char:EOLhyphen"/>ning, whilst a few Bishops, Deanes, Arch Deacons, &amp;c. swallow up the best and richest parts of Ecclesiastical main<g ref="char:EOLhyphen"/>tenance, taking little or no paines, in feeding the soules of the people, studying only Law-suits; how to rise higher in the World, and to sow dissention betwixt Kingdomes, Prin<g ref="char:EOLhyphen"/>ces and their Subiects, when the inferiour Clergie in the meane time must sit below the salt, gather up the crums from under the Episcopall Tables, and account it favour enough, to have a nod from a Bishop; nay happily lesse then that, an hollow-hearted leave or Licence to use a Pul<g ref="char:EOLhyphen"/>pit in his Diocesse</p>
+            <p>Seventhly, A Conformitie of Episcopall Government unto Monarchy. Wee confesse the Conformity is too
+<pb n="5" facs="tcp:97287:6"/>much and too neare. For Kings send out Writs in their owne names (as it is fit they should) so do Bishops. Kings rule and Command, so do Bishops: yet this Conformitie in Government unto Monarchie, cannot induce our cha<g ref="char:EOLhyphen"/>ritie to thinke they (at least many of them) can cordially affect supreme Government whilst so many in latter times, have complyed so much with the Pope, in all Papall usages, the great enemie to all Kingly Government. How can we iudge, but if opportunitie, served, they would fall, in with the Pope in matters of Supremacie, as in other his Tradi<g ref="char:EOLhyphen"/>tions; Besides our Bishops in late dayes have cast the <hi>odi<g ref="char:EOLhyphen"/>um</hi> of all unacceptable Commands upon the King, a point of Bishop-craft wee confesse, but never used by faithfull Statesmen to their Princes, since the beginning of the world, till these our dayes. Whereas, wee (though the lowest of the Tribe of <hi>Levi</hi>) dare protest unto this Honou<g ref="char:EOLhyphen"/>rable Assembly, wee could bee contented to wipe off with our blood the least aspersion upon the honour of our most gracious Soveraigne, whom we sincerely value above all the Princes of the World.</p>
+            <p>But now most noble Senators, mistake not, we beseech you, the candor and ingenuitie of our intentions, wee doe, account it an inexpiable fault, to prescrible unto you, that must prescribe Lawes to us; onely we prostrate what wee have propounded in all humilitie at your feet, wherein we have both expressed our grievances and Petitions. Not<g ref="char:EOLhyphen"/>withstanding all abovesaid, wee are not so falne out with Episcopall Government, but if it seems good to his Ma<g ref="char:EOLhyphen"/>iestie, and this high and honourable Court of Parliament to continue it, wee can (as formerly) sit downe under the shadow of it; if the Authoritie of it be sufficiently cleared by a well constituted Church-Assembly, whereunto wee should willingly subiect, as a way of the Church (anciently used) in such difficulties; only, in case it be thought meet upon advise by your singular wisdomes to continue Epis<g ref="char:EOLhyphen"/>copall
+<pb n="6" facs="tcp:97287:6"/>Government in the Church; bee pleased that the sting thereof be taken away: we meane the High commis<g ref="char:EOLhyphen"/>sion burthensome and superfluous Offices, the unnecessary Ceremonies and subscriptions, according to their Ca<g ref="char:EOLhyphen"/>nons, which they have onely used as snares and nets to catch the Innocent and faithfull in the Land; And the scandalous Ministers removed, the spots and blemishes of the Ecclesiasticall State. But in case such a Church Sy<g ref="char:EOLhyphen"/>nod, or assembly, do find a Presbyteriall or Pastorall, and independent Iurisdiction to be more neerly agreeing unto the Word, and more fit for the present constitution of our Churches, May it please you then to encourage that way which comes next to the mind and will of God, and suits best with the present state of times,</p>
+            <p>So that finally, the summe of all we sue for, is that Iustice may bee done unto all sides, and Truth (with leave of his Maiestie, as supreme) may by the best Reason hew out its way in a Church Assembly or Synod, unto Peace and Uni<g ref="char:EOLhyphen"/>tie; not that we any way suspect your Candor or Integrety, with whom wee have trusted both our selves and all ours: But because the premised considerations do chiefly fall un<g ref="char:EOLhyphen"/>der Ecclesiasticall cognizance, it would be most satisfactory (under correction of more sublime iudgements) to the minds of all men, and no way derogatory to the honour of his Maiestie, or this high and honourable Court of Par<g ref="char:EOLhyphen"/>liament. If such of the Ministery as have not violated their Consciences, nor stain'd their garments, but men of good temper, Piety, Learning, and consulting heads should be authoriz'd to advise in the matters of the Church, both Doctrine and Discipline.</p>
+            <p>Pardon we beseech you, our rudenesse, and brokennesse of our expressions, Truth is never so amiable, as when shee goes in her plainest garbe. Honour us so far, as not to take us for the giddy Sons of <hi>Appollo,</hi> who would set the whole
+<pb n="10" facs="tcp:97287:7"/>world on fire. Wee abhorre the intemperance of such spi<g ref="char:EOLhyphen"/>rits. And doe humbly desire that all Pamphlets may bee staied from the Presse, which take upon them (afore their time) to propound models &amp; forms of Government till a wel constituted Church Assembly have fully discussed the main questions now in controversie. So shall you honour God Almighty, bring out the Truth more fully, which is now over clouded and obscured, performe the trust which his Maiestie hath put in you; happily unite more fully these Churches of England, Scotland, and Ireland.</p>
+            <p>Make our State admired in the eies of forraigne Churches, pull down the proud and mighty from their seats, and exalt the humble and meeke. And by such happy satisfaction in all Ecclesiasticall wayes, you shall ingage the Church to pray more fervently for the happinesse of our Illustri<g ref="char:EOLunhyphen"/>ous King, and this flourishing Common<g ref="char:EOLhyphen"/>wealth. Which God grant, Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
